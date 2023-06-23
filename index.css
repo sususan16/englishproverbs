@@ -7,7 +7,7 @@ a{
 }
 @font-face{
 	font-family:ql ;
-	src: url("./../fonts/Akaya_Kanadaka/AkayaKanadaka-Regular.ttf");
+	src: url("AkayaKanadaka-Regular.ttf");
 }
 
 a:hover{
