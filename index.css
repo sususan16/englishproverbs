@@ -5,13 +5,11 @@ a{
 	background-color: black;
 	
 }
-@font-face{
-	font-family:ql ;
-	src: url("AkayaKanadaka-Regular.ttf");
+
 }
 
 a:hover{
-	font-family:ql ;
+	
 	
 	font-size: 30px;
 	transition: all 3s;
